@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PljGz/ugPhq1B1oDCmXrKBLpI3Cy7z1dPsG2o0wEwjHrbkjEUaxtCld9bKnoWNNy3TTnkPoT14I651XUQcB7kA==",
+  "success": true,
+  "projectFilePath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Common\\TweetsAccessApi.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Just Jassy\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Just Jassy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Just Jassy\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\Just Jassy\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512",
+    "C:\\Users\\Just Jassy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

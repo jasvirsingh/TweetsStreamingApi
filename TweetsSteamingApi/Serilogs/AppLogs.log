@@ -1,0 +1,102 @@
+2022-07-19 10:03:02.891 -04:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'TweetsSteamingApi.Extensions.ExceptionMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2022-07-19 11:04:30.930 -04:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'TweetsSteamingApi.Extensions.ExceptionMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+07/19/2022 11:11:47 -04:00 Starting web host
+07/19/2022 11:12:19 -04:00 Starting web host
+07/19/2022 11:14:09 -04:00 Starting web host
+07/19/2022 11:25:39 -04:00 Starting web host
+07/19/2022 11:26:48 -04:00 Starting web host
+07/19/2022 12:47:04 -04:00 Starting web host
+07/19/2022 12:48:46 -04:00 Starting web host
+07/19/2022 12:50:06 -04:00 Starting web host
+07/19/2022 12:53:46 -04:00 Starting web host
+07/19/2022 12:54:35 -04:00 Starting web host
+07/19/2022 12:55:21 -04:00 Starting web host
+07/19/2022 12:57:03 -04:00 Starting web host
+07/19/2022 12:59:15 -04:00 Starting web host
+07/19/2022 13:00:34 -04:00 Starting web host
+07/19/2022 13:01:04 -04:00 Starting web host
+07/19/2022 15:56:18 -04:00 Starting web host
+07/19/2022 15:58:02 -04:00 Starting web host
+07/19/2022 16:41:50 -04:00 Starting web host
+07/19/2022 16:42:55 -04:00 Starting web host
+07/19/2022 16:43:11 -04:00 Host terminated unexpectedly
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: TweetsAccessAPI.Controllers.TweetsController Lifetime: Transient ImplementationType: TweetsAccessAPI.Controllers.TweetsController': Unable to resolve service for type 'TwitterAccessApi.Integration.Interfaces.IRestApiClient' while attempting to activate 'TwitterAccessApi.Integration.TwitterIntegration'.) (Error while validating the service descriptor 'ServiceType: TweetsAccessApi.Model.Services.Interfaces.ITweetsStreamingService Lifetime: Transient ImplementationType: TweetsAccessApi.Model.Services.TweetsStreamingService': Unable to resolve service for type 'TwitterAccessApi.Integration.Interfaces.IRestApiClient' while attempting to activate 'TwitterAccessApi.Integration.TwitterIntegration'.) (Error while validating the service descriptor 'ServiceType: TwitterAccessApi.Integration.Interfaces.ITwitterIntegration Lifetime: Transient ImplementationType: TwitterAccessApi.Integration.TwitterIntegration': Unable to resolve service for type 'TwitterAccessApi.Integration.Interfaces.IRestApiClient' while attempting to activate 'TwitterAccessApi.Integration.TwitterIntegration'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: TweetsAccessAPI.Controllers.TweetsController Lifetime: Transient ImplementationType: TweetsAccessAPI.Controllers.TweetsController': Unable to resolve service for type 'TwitterAccessApi.Integration.Interfaces.IRestApiClient' while attempting to activate 'TwitterAccessApi.Integration.TwitterIntegration'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'TwitterAccessApi.Integration.Interfaces.IRestApiClient' while attempting to activate 'TwitterAccessApi.Integration.TwitterIntegration'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.Internal.ServiceFactoryAdapter`1.CreateServiceProvider(Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at TweetsSteamingAPI.Program.Main(String[] args) in E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\Program.cs:line 34
+ ---> (Inner Exception #1) System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: TweetsAccessApi.Model.Services.Interfaces.ITweetsStreamingService Lifetime: Transient ImplementationType: TweetsAccessApi.Model.Services.TweetsStreamingService': Unable to resolve service for type 'TwitterAccessApi.Integration.Interfaces.IRestApiClient' while attempting to activate 'TwitterAccessApi.Integration.TwitterIntegration'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'TwitterAccessApi.Integration.Interfaces.IRestApiClient' while attempting to activate 'TwitterAccessApi.Integration.TwitterIntegration'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(Type serviceType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)<---
+
+ ---> (Inner Exception #2) System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: TwitterAccessApi.Integration.Interfaces.ITwitterIntegration Lifetime: Transient ImplementationType: TwitterAccessApi.Integration.TwitterIntegration': Unable to resolve service for type 'TwitterAccessApi.Integration.Interfaces.IRestApiClient' while attempting to activate 'TwitterAccessApi.Integration.TwitterIntegration'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'TwitterAccessApi.Integration.Interfaces.IRestApiClient' while attempting to activate 'TwitterAccessApi.Integration.TwitterIntegration'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, Type serviceType, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, Type serviceType, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)<---
+
+07/19/2022 16:43:26 -04:00 Starting web host
+07/19/2022 16:45:06 -04:00 Starting web host
+07/19/2022 16:46:11 -04:00 Starting web host
+07/19/2022 16:48:23 -04:00 Starting web host
+07/19/2022 16:49:54 -04:00 Starting web host
+07/19/2022 18:07:16 -04:00 Starting web host
+07/19/2022 18:15:25 -04:00 Starting web host
+07/19/2022 18:18:31 -04:00 Starting web host
+07/19/2022 18:19:18 -04:00 Starting web host

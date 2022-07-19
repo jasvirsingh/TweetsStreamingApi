@@ -1,0 +1,577 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.UnitTests\\TweetsAccessApi.UnitTests.csproj": {}
+  },
+  "projects": {
+    "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data.Access\\TweetsAccess.Data.Access.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data.Access\\TweetsAccess.Data.Access.csproj",
+        "projectName": "TweetsAccess.Data.Access",
+        "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data.Access\\TweetsAccess.Data.Access.csproj",
+        "packagesPath": "C:\\Users\\Just Jassy\\.nuget\\packages\\",
+        "outputPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data.Access\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Just Jassy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data\\TweetsAccess.Data.csproj": {
+                "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data\\TweetsAccess.Data.csproj"
+              },
+              "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Data.Access.EFCore\\TweetsAccessApi.Data.Access.EFCore.csproj": {
+                "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Data.Access.EFCore\\TweetsAccessApi.Data.Access.EFCore.csproj"
+              },
+              "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Infrastructure\\TweetsAccessApi.Infrastructure.csproj": {
+                "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Infrastructure\\TweetsAccessApi.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data\\TweetsAccess.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data\\TweetsAccess.Data.csproj",
+        "projectName": "TweetsAccess.Data",
+        "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data\\TweetsAccess.Data.csproj",
+        "packagesPath": "C:\\Users\\Just Jassy\\.nuget\\packages\\",
+        "outputPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Just Jassy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Data.Access.EFCore\\TweetsAccessApi.Data.Access.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Data.Access.EFCore\\TweetsAccessApi.Data.Access.EFCore.csproj",
+        "projectName": "TweetsAccessApi.Data.Access.EFCore",
+        "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Data.Access.EFCore\\TweetsAccessApi.Data.Access.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Just Jassy\\.nuget\\packages\\",
+        "outputPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Data.Access.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Just Jassy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data\\TweetsAccess.Data.csproj": {
+                "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data\\TweetsAccess.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Infrastructure\\TweetsAccessApi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Infrastructure\\TweetsAccessApi.Infrastructure.csproj",
+        "projectName": "TweetsAccessApi.Infrastructure",
+        "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Infrastructure\\TweetsAccessApi.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Just Jassy\\.nuget\\packages\\",
+        "outputPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Just Jassy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Model.Services\\TweetsAccessApi.Model.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Model.Services\\TweetsAccessApi.Model.Services.csproj",
+        "projectName": "TweetsAccessApi.Model.Services",
+        "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Model.Services\\TweetsAccessApi.Model.Services.csproj",
+        "packagesPath": "C:\\Users\\Just Jassy\\.nuget\\packages\\",
+        "outputPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Model.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Just Jassy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data.Access\\TweetsAccess.Data.Access.csproj": {
+                "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data.Access\\TweetsAccess.Data.Access.csproj"
+              },
+              "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data\\TweetsAccess.Data.csproj": {
+                "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data\\TweetsAccess.Data.csproj"
+              },
+              "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Model\\TweetsAccessApi.Model.csproj": {
+                "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Model\\TweetsAccessApi.Model.csproj"
+              },
+              "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TwitterAccessApi.Integration\\TwitterAccessApi.Integration.csproj": {
+                "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TwitterAccessApi.Integration\\TwitterAccessApi.Integration.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Model\\TweetsAccessApi.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Model\\TweetsAccessApi.Model.csproj",
+        "projectName": "TweetsAccessApi.Model",
+        "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Model\\TweetsAccessApi.Model.csproj",
+        "packagesPath": "C:\\Users\\Just Jassy\\.nuget\\packages\\",
+        "outputPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Just Jassy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.UnitTests\\TweetsAccessApi.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.UnitTests\\TweetsAccessApi.UnitTests.csproj",
+        "projectName": "TweetsAccessApi.UnitTests",
+        "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.UnitTests\\TweetsAccessApi.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Just Jassy\\.nuget\\packages\\",
+        "outputPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Just Jassy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data.Access\\TweetsAccess.Data.Access.csproj": {
+                "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccess.Data.Access\\TweetsAccess.Data.Access.csproj"
+              },
+              "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Model.Services\\TweetsAccessApi.Model.Services.csproj": {
+                "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Model.Services\\TweetsAccessApi.Model.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TwitterAccessApi.Integration\\TwitterAccessApi.Integration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TwitterAccessApi.Integration\\TwitterAccessApi.Integration.csproj",
+        "projectName": "TwitterAccessApi.Integration",
+        "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TwitterAccessApi.Integration\\TwitterAccessApi.Integration.csproj",
+        "packagesPath": "C:\\Users\\Just Jassy\\.nuget\\packages\\",
+        "outputPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TwitterAccessApi.Integration\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Just Jassy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Infrastructure\\TweetsAccessApi.Infrastructure.csproj": {
+                "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Infrastructure\\TweetsAccessApi.Infrastructure.csproj"
+              },
+              "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Model\\TweetsAccessApi.Model.csproj": {
+                "projectPath": "E:\\Interview Project Assignment\\Git\\TweetsAccessAPI\\TweetsAccessApi.Model\\TweetsAccessApi.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

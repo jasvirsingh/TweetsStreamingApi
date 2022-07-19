@@ -1,0 +1,43 @@
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.deps.json
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccess.Data.Access.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccess.Data.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccess.Data.Access.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccess.Data.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\obj\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.csprojAssemblyReference.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\obj\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.AssemblyInfoInputs.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\obj\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.AssemblyInfo.cs
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\obj\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.csproj.CoreCompileInputs.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\obj\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.csproj.CopyComplete
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\obj\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\obj\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.pdb
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.deps.json
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.dll
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.pdb
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccess.Data.Access.dll
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccess.Data.dll
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.dll
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.dll
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.dll
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccess.Data.Access.pdb
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccess.Data.pdb
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.pdb
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.pdb
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.pdb
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\obj\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.csproj.AssemblyReference.cache
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\obj\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\obj\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.AssemblyInfoInputs.cache
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\obj\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.AssemblyInfo.cs
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\obj\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.csproj.CoreCompileInputs.cache
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\obj\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.csproj.CopyComplete
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\obj\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.dll
+C:\TweetsAccessAPI\TweetsAccessApi.Model.Services\obj\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TwitterAccessApi.Integration.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Model.Services\bin\Debug\netcoreapp3.1\TwitterAccessApi.Integration.pdb

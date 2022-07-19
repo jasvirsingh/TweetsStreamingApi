@@ -1,0 +1,25 @@
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\GroceryStoreApi.Model\bin\Debug\netcoreapp3.1\GroceryStoreApi.Model.deps.json
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\GroceryStoreApi.Model\bin\Debug\netcoreapp3.1\GroceryStoreApi.Model.dll
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\GroceryStoreApi.Model\bin\Debug\netcoreapp3.1\GroceryStoreApi.Model.pdb
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.AssemblyInfoInputs.cache
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.AssemblyInfo.cs
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.csproj.CoreCompileInputs.cache
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.dll
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.pdb
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\bin\Debug\netcoreapp3.1\GroceryStoreApi.Model.deps.json
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\bin\Debug\netcoreapp3.1\GroceryStoreApi.Model.dll
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\bin\Debug\netcoreapp3.1\GroceryStoreApi.Model.pdb
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.AssemblyInfoInputs.cache
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.AssemblyInfo.cs
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.csproj.CoreCompileInputs.cache
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.dll
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.pdb
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\bin\Debug\netcoreapp3.1\GroceryStoreApi.Model.deps.json
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\bin\Debug\netcoreapp3.1\GroceryStoreApi.Model.dll
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\bin\Debug\netcoreapp3.1\GroceryStoreApi.Model.pdb
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.csprojAssemblyReference.cache
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.AssemblyInfoInputs.cache
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.AssemblyInfo.cs
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.csproj.CoreCompileInputs.cache
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.dll
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Model\obj\Debug\netcoreapp3.1\GroceryStoreApi.Model.pdb

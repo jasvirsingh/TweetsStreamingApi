@@ -1,0 +1,18 @@
+C:\TweetsAccessAPI\TweetsAccessApi.Common\bin\Debug\netcoreapp3.1\TweetsAccessApi.Common.deps.json
+C:\TweetsAccessAPI\TweetsAccessApi.Common\bin\Debug\netcoreapp3.1\TweetsAccessApi.Common.dll
+C:\TweetsAccessAPI\TweetsAccessApi.Common\bin\Debug\netcoreapp3.1\TweetsAccessApi.Common.pdb
+C:\TweetsAccessAPI\TweetsAccessApi.Common\obj\Debug\netcoreapp3.1\TweetsAccessApi.Common.csproj.AssemblyReference.cache
+C:\TweetsAccessAPI\TweetsAccessApi.Common\obj\Debug\netcoreapp3.1\TweetsAccessApi.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\TweetsAccessAPI\TweetsAccessApi.Common\obj\Debug\netcoreapp3.1\TweetsAccessApi.Common.AssemblyInfoInputs.cache
+C:\TweetsAccessAPI\TweetsAccessApi.Common\obj\Debug\netcoreapp3.1\TweetsAccessApi.Common.AssemblyInfo.cs
+C:\TweetsAccessAPI\TweetsAccessApi.Common\obj\Debug\netcoreapp3.1\TweetsAccessApi.Common.csproj.CoreCompileInputs.cache
+C:\TweetsAccessAPI\TweetsAccessApi.Common\obj\Debug\netcoreapp3.1\TweetsAccessApi.Common.dll
+C:\TweetsAccessAPI\TweetsAccessApi.Common\obj\Debug\netcoreapp3.1\TweetsAccessApi.Common.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Common\bin\Debug\netcoreapp3.1\TweetsAccessApi.Common.deps.json
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Common\bin\Debug\netcoreapp3.1\TweetsAccessApi.Common.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Common\bin\Debug\netcoreapp3.1\TweetsAccessApi.Common.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Common\obj\Debug\netcoreapp3.1\TweetsAccessApi.Common.AssemblyInfoInputs.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Common\obj\Debug\netcoreapp3.1\TweetsAccessApi.Common.AssemblyInfo.cs
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Common\obj\Debug\netcoreapp3.1\TweetsAccessApi.Common.csproj.CoreCompileInputs.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Common\obj\Debug\netcoreapp3.1\TweetsAccessApi.Common.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Common\obj\Debug\netcoreapp3.1\TweetsAccessApi.Common.pdb

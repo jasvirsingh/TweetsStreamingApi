@@ -1,0 +1,228 @@
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.csprojAssemblyReference.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.AssemblyInfoInputs.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.AssemblyInfo.cs
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsSteamingApi.exe
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.RazorTargetAssemblyInfo.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\staticwebassets\TweetsSteamingApi.StaticWebAssets.Manifest.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\staticwebassets\TweetsSteamingApi.StaticWebAssets.xml
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.csproj.CopyComplete
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsSteamingApi.deps.json
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsSteamingApi.runtimeconfig.json
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsSteamingApi.runtimeconfig.dev.json
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsSteamingApi.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsSteamingApi.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccess.Data.Access.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccess.Data.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccess.Data.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccess.Data.Access.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.genruntimeconfig.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\database.json
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\database.json
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsSteamingApi.StaticWebAssets.xml
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsSteamingApi.exe
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsSteamingApi.deps.json
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsSteamingApi.runtimeconfig.json
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsSteamingApi.runtimeconfig.dev.json
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsSteamingApi.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsSteamingApi.pdb
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Polly.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccess.Data.Access.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccess.Data.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Common.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Common.pdb
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.Services.pdb
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccess.Data.pdb
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccess.Data.Access.pdb
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.pdb
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.pdb
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Model.pdb
+C:\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.csproj.AssemblyReference.cache
+C:\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.AssemblyInfoInputs.cache
+C:\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.AssemblyInfo.cs
+C:\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.csproj.CoreCompileInputs.cache
+C:\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\staticwebassets\TweetsSteamingApi.StaticWebAssets.Manifest.cache
+C:\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.RazorTargetAssemblyInfo.cache
+C:\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.csproj.CopyComplete
+C:\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.pdb
+C:\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.genruntimeconfig.cache
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.AspNetCore.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Polly.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\RestSharp.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.AspNetCore.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Common.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsAccessApi.Common.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Settings.AppSettings.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TweetsSteamingApi.xml
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.csproj.CoreCompileInputs.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\obj\Debug\netcoreapp3.1\TweetsSteamingApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TwitterAccessApi.Integration.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsSteamingApi\bin\Debug\netcoreapp3.1\TwitterAccessApi.Integration.pdb

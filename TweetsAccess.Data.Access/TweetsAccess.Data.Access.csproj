@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TweetsAccess.Data\TweetsAccess.Data.csproj" />
+    <ProjectReference Include="..\TweetsAccessApi.Data.Access.EFCore\TweetsAccessApi.Data.Access.EFCore.csproj" />
+    <ProjectReference Include="..\TweetsAccessApi.Infrastructure\TweetsAccessApi.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

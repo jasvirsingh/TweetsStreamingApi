@@ -1,0 +1,17 @@
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\bin\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.deps.json
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\bin\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.dll
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\bin\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.pdb
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\obj\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.AssemblyInfoInputs.cache
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\obj\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.AssemblyInfo.cs
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\obj\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\obj\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.dll
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\obj\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.pdb
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\bin\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.deps.json
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\bin\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.dll
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\bin\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.pdb
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\obj\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.csprojAssemblyReference.cache
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\obj\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.AssemblyInfoInputs.cache
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\obj\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.AssemblyInfo.cs
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\obj\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.csproj.CoreCompileInputs.cache
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\obj\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.dll
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStoreApi.Infrastructure\obj\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.pdb

@@ -1,0 +1,18 @@
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccess.Data\bin\Debug\netcoreapp3.1\TweetsAccess.Data.deps.json
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccess.Data\bin\Debug\netcoreapp3.1\TweetsAccess.Data.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccess.Data\bin\Debug\netcoreapp3.1\TweetsAccess.Data.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccess.Data\obj\Debug\netcoreapp3.1\TweetsAccess.Data.AssemblyInfoInputs.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccess.Data\obj\Debug\netcoreapp3.1\TweetsAccess.Data.AssemblyInfo.cs
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccess.Data\obj\Debug\netcoreapp3.1\TweetsAccess.Data.csproj.CoreCompileInputs.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccess.Data\obj\Debug\netcoreapp3.1\TweetsAccess.Data.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccess.Data\obj\Debug\netcoreapp3.1\TweetsAccess.Data.pdb
+C:\TweetsAccessAPI\TweetsAccess.Data\bin\Debug\netcoreapp3.1\TweetsAccess.Data.deps.json
+C:\TweetsAccessAPI\TweetsAccess.Data\bin\Debug\netcoreapp3.1\TweetsAccess.Data.dll
+C:\TweetsAccessAPI\TweetsAccess.Data\bin\Debug\netcoreapp3.1\TweetsAccess.Data.pdb
+C:\TweetsAccessAPI\TweetsAccess.Data\obj\Debug\netcoreapp3.1\TweetsAccess.Data.csproj.AssemblyReference.cache
+C:\TweetsAccessAPI\TweetsAccess.Data\obj\Debug\netcoreapp3.1\TweetsAccess.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\TweetsAccessAPI\TweetsAccess.Data\obj\Debug\netcoreapp3.1\TweetsAccess.Data.AssemblyInfoInputs.cache
+C:\TweetsAccessAPI\TweetsAccess.Data\obj\Debug\netcoreapp3.1\TweetsAccess.Data.AssemblyInfo.cs
+C:\TweetsAccessAPI\TweetsAccess.Data\obj\Debug\netcoreapp3.1\TweetsAccess.Data.csproj.CoreCompileInputs.cache
+C:\TweetsAccessAPI\TweetsAccess.Data\obj\Debug\netcoreapp3.1\TweetsAccess.Data.dll
+C:\TweetsAccessAPI\TweetsAccess.Data\obj\Debug\netcoreapp3.1\TweetsAccess.Data.pdb

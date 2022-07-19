@@ -1,0 +1,19 @@
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Infrastructure\bin\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.deps.json
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Infrastructure\bin\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Infrastructure\bin\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Infrastructure\obj\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.AssemblyInfoInputs.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Infrastructure\obj\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.AssemblyInfo.cs
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Infrastructure\obj\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Infrastructure\obj\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Infrastructure\obj\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.pdb
+C:\TweetsAccessAPI\TweetsAccessApi.Infrastructure\bin\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.deps.json
+C:\TweetsAccessAPI\TweetsAccessApi.Infrastructure\bin\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.dll
+C:\TweetsAccessAPI\TweetsAccessApi.Infrastructure\bin\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.pdb
+C:\TweetsAccessAPI\TweetsAccessApi.Infrastructure\obj\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.csproj.AssemblyReference.cache
+C:\TweetsAccessAPI\TweetsAccessApi.Infrastructure\obj\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\TweetsAccessAPI\TweetsAccessApi.Infrastructure\obj\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.AssemblyInfoInputs.cache
+C:\TweetsAccessAPI\TweetsAccessApi.Infrastructure\obj\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.AssemblyInfo.cs
+C:\TweetsAccessAPI\TweetsAccessApi.Infrastructure\obj\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\TweetsAccessAPI\TweetsAccessApi.Infrastructure\obj\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.dll
+C:\TweetsAccessAPI\TweetsAccessApi.Infrastructure\obj\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Infrastructure\obj\Debug\netcoreapp3.1\TweetsAccessApi.Infrastructure.csprojAssemblyReference.cache

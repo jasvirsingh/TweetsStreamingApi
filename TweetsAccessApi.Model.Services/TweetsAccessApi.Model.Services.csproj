@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TweetsAccess.Data.Access\TweetsAccess.Data.Access.csproj" />
+    <ProjectReference Include="..\TweetsAccess.Data\TweetsAccess.Data.csproj" />
+    <ProjectReference Include="..\TweetsAccessApi.Model\TweetsAccessApi.Model.csproj" />
+    <ProjectReference Include="..\TwitterAccessApi.Integration\TwitterAccessApi.Integration.csproj" />
+  </ItemGroup>
+
+</Project>

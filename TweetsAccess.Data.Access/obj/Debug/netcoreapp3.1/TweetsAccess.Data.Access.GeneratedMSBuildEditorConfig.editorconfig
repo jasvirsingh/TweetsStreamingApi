@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TweetsAccess.Data.Access
+build_property.ProjectDir = C:\TweetsAccessAPI\TweetsAccess.Data.Access\

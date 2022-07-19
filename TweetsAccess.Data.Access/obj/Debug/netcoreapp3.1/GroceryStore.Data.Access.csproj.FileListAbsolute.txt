@@ -1,0 +1,46 @@
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\ClassLibrary2\bin\Debug\netcoreapp3.1\GroceryStore.Data.Access.deps.json
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\ClassLibrary2\bin\Debug\netcoreapp3.1\GroceryStore.Data.Access.dll
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\ClassLibrary2\bin\Debug\netcoreapp3.1\GroceryStore.Data.Access.pdb
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\ClassLibrary2\bin\Debug\netcoreapp3.1\GroceryStore.Data.dll
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\ClassLibrary2\bin\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.dll
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\ClassLibrary2\bin\Debug\netcoreapp3.1\GroceryStore.Data.pdb
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\ClassLibrary2\bin\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.pdb
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\ClassLibrary2\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.csprojAssemblyReference.cache
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\ClassLibrary2\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.AssemblyInfoInputs.cache
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\ClassLibrary2\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.AssemblyInfo.cs
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\ClassLibrary2\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.csproj.CoreCompileInputs.cache
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\ClassLibrary2\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.csproj.CopyComplete
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\ClassLibrary2\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.dll
+E:\Job Search\Crack Interview\companies interview questions\Autobooks\interview-dotnet3-master\ClassLibrary2\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.pdb
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStore.Data.Access.deps.json
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStore.Data.Access.dll
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStore.Data.Access.pdb
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStore.Data.dll
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.dll
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStore.Data.pdb
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.pdb
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.csprojAssemblyReference.cache
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.AssemblyInfoInputs.cache
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.AssemblyInfo.cs
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.csproj.CoreCompileInputs.cache
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.csproj.CopyComplete
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.dll
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.pdb
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStoreApi.Data.Access.EFCore.dll
+C:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStoreApi.Data.Access.EFCore.pdb
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStore.Data.Access.deps.json
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStore.Data.Access.dll
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStore.Data.Access.pdb
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStore.Data.dll
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStoreApi.Data.Access.EFCore.dll
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.dll
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStore.Data.pdb
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStoreApi.Data.Access.EFCore.pdb
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\bin\Debug\netcoreapp3.1\GroceryStoreApi.Infrastructure.pdb
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.csprojAssemblyReference.cache
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.AssemblyInfoInputs.cache
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.AssemblyInfo.cs
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.csproj.CoreCompileInputs.cache
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.csproj.CopyComplete
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.dll
+E:\AutoBooks\GroceryStoreApi\AutoBooks-GroceryStoreApi\GroceryStore.Data.Access\obj\Debug\netcoreapp3.1\GroceryStore.Data.Access.pdb

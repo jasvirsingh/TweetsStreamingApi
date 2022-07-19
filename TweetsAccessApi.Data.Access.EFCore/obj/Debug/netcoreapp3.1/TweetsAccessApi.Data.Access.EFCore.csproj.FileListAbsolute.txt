@@ -1,0 +1,31 @@
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.deps.json
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.runtimeconfig.json
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.runtimeconfig.dev.json
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\bin\Debug\netcoreapp3.1\TweetsAccess.Data.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\bin\Debug\netcoreapp3.1\TweetsAccess.Data.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.csprojAssemblyReference.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.AssemblyInfoInputs.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.AssemblyInfo.cs
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.csproj.CoreCompileInputs.cache
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.csproj.CopyComplete
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.dll
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.pdb
+E:\Interview Project Assignment\Git\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.genruntimeconfig.cache
+C:\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.deps.json
+C:\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.runtimeconfig.json
+C:\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.runtimeconfig.dev.json
+C:\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.dll
+C:\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\bin\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.pdb
+C:\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\bin\Debug\netcoreapp3.1\TweetsAccess.Data.dll
+C:\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\bin\Debug\netcoreapp3.1\TweetsAccess.Data.pdb
+C:\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.csproj.AssemblyReference.cache
+C:\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.AssemblyInfoInputs.cache
+C:\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.AssemblyInfo.cs
+C:\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.csproj.CoreCompileInputs.cache
+C:\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.csproj.CopyComplete
+C:\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.dll
+C:\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.pdb
+C:\TweetsAccessAPI\TweetsAccessApi.Data.Access.EFCore\obj\Debug\netcoreapp3.1\TweetsAccessApi.Data.Access.EFCore.genruntimeconfig.cache

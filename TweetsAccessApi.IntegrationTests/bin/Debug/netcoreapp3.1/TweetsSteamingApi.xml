@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TweetsSteamingApi</name>
+    </assembly>
+    <members>
+        <member name="T:TweetsAccessAPI.Controllers.TweetsController">
+            <summary>
+             Controller for handling Tweets
+            </summary>
+        </member>
+        <member name="M:TweetsAccessAPI.Controllers.TweetsController.#ctor(TweetsAccessApi.Model.Services.Interfaces.ITweetsStreamingService,Microsoft.Extensions.Logging.ILogger{TweetsAccessAPI.Controllers.TweetsController})">
+            <summary>
+            Constructor for <see cref="T:TweetsAccessAPI.Controllers.TweetsController"/>
+            </summary>
+            <param name="tweetsStreamingService">
+                <see cref="T:TweetsAccessApi.Model.Services.Interfaces.ITweetsStreamingService"/>
+            </param>
+            <param name="logger">
+                <see cref="T:Microsoft.Extensions.Logging.ILogger"/>
+            </param>
+        </member>
+        <member name="M:TweetsAccessAPI.Controllers.TweetsController.GetTweetsInfo">
+            <summary>
+            Gets tweets count and list of top 10 hashtags
+            </summary>
+            <response code="200">Successful operation</response>
+            <response code="401">Unauthorized</response>
+            <response code="403">Forbidden</response>
+            <response code="500">Internal Server error</response>
+            <response code="503">Service unavailable</response>
+            <returns></returns>
+        </member>
+        <member name="T:TweetsSteamingApi.Security.AuthorizationHeaderOperationFilter">
+            <summary>
+                This is an Operation Filter class used to add Authorization/apiKey header parameters
+            </summary>
+        </member>
+        <member name="M:TweetsSteamingApi.Security.AuthorizationHeaderOperationFilter.Apply(Microsoft.OpenApi.Models.OpenApiOperation,Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)">
+            <summary>
+                <see cref="M:Swashbuckle.AspNetCore.SwaggerGen.IOperationFilter.Apply(Microsoft.OpenApi.Models.OpenApiOperation,Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)"/>
+            </summary>
+        </member>
+        <member name="M:TweetsSteamingApi.Security.AuthorizationHeaderOperationFilter.IsUsingAuth(Swashbuckle.AspNetCore.SwaggerGen.OperationFilterContext)">
+            <summary>
+            	Checks to see if a operation filter context is for an operation that is using auth
+            </summary>
+            <param name="context">
+            	Operation filter context to check for
+            </param>
+            <returns>
+            	True if the operation filter context is for an operation with auth.
+            	False if not using auth.
+            </returns>
+        </member>
+        <member name="M:TweetsSteamingAPI.Program.Main(System.String[])">
+            <summary>Defines the entry point of the application.</summary>
+            <param name="args">The arguments.</param>
+        </member>
+        <member name="M:TweetsSteamingAPI.Program.CreateHostBuilder(System.String[])">
+            <summary>Creates the host builder.</summary>
+            <param name="args">The arguments.</param>
+            <returns></returns>
+        </member>
+        <member name="M:TweetsStreamingAPI.Startup.#ctor(Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>Initializes a new instance of the <see cref="T:TweetsStreamingAPI.Startup" /> class.</summary>
+            <param name="env">The env.</param>
+        </member>
+        <member name="P:TweetsStreamingAPI.Startup.ServiceProvider">
+            <summary>Gets the service provider.</summary>
+            <value>The service provider.</value>
+        </member>
+        <member name="P:TweetsStreamingAPI.Startup.ServiceCollection">
+            <summary>Gets or sets the service preprocessor.</summary>
+            <value>The service preprocessor.</value>
+        </member>
+        <member name="P:TweetsStreamingAPI.Startup.Configuration">
+            <summary>Gets the configuration.</summary>
+            <value>The configuration.</value>
+        </member>
+        <member name="M:TweetsStreamingAPI.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>Configures the services.</summary>
+            <param name="services">The services.</param>
+        </member>
+        <member name="M:TweetsStreamingAPI.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>Configures the specified application.</summary>
+            <param name="app">The application.</param>
+            <param name="env">The env.</param>
+        </member>
+    </members>
+</doc>
